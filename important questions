@@ -22,3 +22,118 @@ Kubernetes:
 10.ETCD? It's role?	
 11.Node vs master?	
 12.How to connect from node to master?	
+Services?
+2. Under EC2 list some components?
+3.ebs vs EFS?
+4.types of ELB's?
+5.s3? it's role?
+6.IAM? It's role?
+7.IAM policy?
+8.custom policy vs predefined?
+9.ALB vs NLB
+10.How to build a static website?
+what is docker engine why we use that?
+what is cloud formation?
+tell me end-to-end CICD flow?
+what is diff b/w fech and pull?
+what is ci and cd?
+who's asign u work in you are oganization?
+how many ec2 are running in you are organization?
+whre u have to check incase instance are faild?
+what is pipeline which tye of pipeline r u using?
+how to check container data?
+how to check image?
+what is k8s?why we use?
+which aws tools are using?
+wher u store the images?
+wher we store packages?
+1)what is git merge and git rebase
+2)what is declarative and scripted pipeline
+3)where you jenkins file store
+4)what is master slave
+5)how to add volume in running containers
+6)how many masters and nodes your using in your cluster
+7)how many pods are runing on your cluster
+8)how to check pod is runing are not
+9)what is statefulset
+10)tell me k8s orchestration
+11)what is ingresscontroller how its work
+12)Difference between entrypoint and cmd
+13)Difference between Run and cmd
+14)tell loadbalancer types in aws
+15)what is listener
+16)what is igw and NAT-gw
+17)which type of authenticator tools your using in your organization
+1.What is host and path based routing in load balancer.
+2.Difference between classic and application load balancer.
+3.What is Target group
+4.What is Listener in ALB.
+5.Difference between public and private subnet and how to identify them.
+6.Difference between security group and NACL
+7.Where you define NAT gateway
+8.What is VPC and route table
+9.When our app server is slow then how to diagnose.
+10.Lifecycle in s3?
+11.What are logstash
+13.Why Nginx is a reverse proxy server.
+14.Have you integrated kafka with jenkins
+15.daily roles and responsibilities
+16.how you will check the logs
+17.Explain kubernetes arch.
+18.What is elastic search?
+19.diff. bt RDS and EC2?
+20.Diff bt S3 and EBS?
+21.what is docker engine?
+22.What is playbook in ansible
+23.What are roles in ansible
+24.write the pipeline sample example
+25.write the sample dockerfile
+26.docker command to delete all the containers
+1.what is cloud formations?	
+2.which tools are using cicd purpose?	
+3.how to write a secrets?	
+4.Are you creating any repos?	
+5.what are  you doing inside in  you github account?	
+6.there are two options  status check and system check?what are you see in side checks?	
+7.what are the stages in pipeline?	
+8.how check inside the port is working or not?tell me the syntax?	
+9.aws services?	
+10.are you creating any database?	
+11.you know sql command?	
+12.what is the life cycle of s3?	
+13.whare you using docker and k8s?	
+14.diff b/w ec2 and s3?	
+15.what is vpc?	
+16.what is your role in you organization?	
+17.what is your daily activites?	
+18.which type of services are you using aws ?	
+19.are you know java language	
+20.one directory inside combine of java and php files is their ?how the modify the java file to php file?	
+21.you know terraform?	
+22.what is eks?	
+24.what is grafana?	
+25.what is prometheus?	
+26.where you deploy the application in tomcat?	
+27.sql connection? syntax?	
+1.where etcd works?
+2.how to change host name?
+3.what is proxy
+4.what is NAT-gateway ang Internet gateway?why we use both?
+5.explain about pipe line in jenkins?
+6.difference between ci and cd?
+7.difference between contineous delivery and contineous deployment?
+8.what are the testing tools are using in your organization?
+9.explain onli ci process?
+10.how to execute user data?
+11.difference between RUN and CMD?
+1.contineous deployment and delivery?
+2.there are two types of pipelines declarative and scripeted ?how to implement both?
+3.difference between declarative and scripted pipelines?
+4.what is stash?
+5.what is git conflicts?
+6.whats git pull operation?
+7.tell me git push purpose?
+8.whats is sonarcube?
+9.what is terraform init ?
+10.what is main purpose of kubernetes?
+11.what is master service?
